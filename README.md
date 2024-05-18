@@ -15,7 +15,7 @@ After that we have to create an application, click on “create application” a
 
 And create an environment and configure it with suitable information to create an application 
 
- ![image](https://github.com/sainakka5/Creating_Elastic_Beanstalk_with_Sample_code/assets/136338958/e55df62f-8818-425c-851a-ae82860f83d1)
+![image](https://github.com/sainakka5/Creating_Elastic_Beanstalk_with_Sample_code/assets/136338958/09c46676-661a-4309-b128-6e5ab9ca7d7c)
  
 
 Next give the Platform type as Node.js to run the application in this Platform. And give the latest version and Branch.
